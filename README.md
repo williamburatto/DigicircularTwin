@@ -1,4 +1,4 @@
-# DT2-SC — Gêmeo digital federado DigiCircular calibrado com dados públicos de Santa Catarina
+# Gêmeo digital federado DigiCircular calibrado com dados públicos de Santa Catarina
 
 Telemetria real de chão de fábrica (OPC UA/MQTT) é sigilosa. O DT2-SC calibra baselines e limites com
 **dados públicos** (MCTI/SIN, Celesc, SCGÁS, IMA/MTR, SEMAE/SNIS, ABIPET, IBGE, Epagri/Cidasc, Embrapa, CONAMA 430)
