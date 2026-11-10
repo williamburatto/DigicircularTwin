@@ -1,0 +1,9 @@
+services:
+  dt2sc:
+    build: .
+    ports: ["8501:8501"]
+    environment:
+      DT2SC_ADMIN_USER: ${DT2SC_ADMIN_USER}
+      DT2SC_ADMIN_PASS: ${DT2SC_ADMIN_PASS}
+    volumes: ["./dados_plataforma:/dados"]
+    restart: unless-stopped
